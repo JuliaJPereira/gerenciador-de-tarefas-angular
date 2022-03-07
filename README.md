@@ -1,5 +1,14 @@
 # Gerenciador de Tarefas
 
+### Objetivos:
+- Criar um CRUD;
+- Aprender a utilizar Rotas;
+- Criar formulários;
+- Aprender a validar formulários;
+- Aprender a criar diretivas;
+- Aprender a armazenar dados no localStorage;
+- Aprender sobre o ciclo de vida dos componentes;
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
