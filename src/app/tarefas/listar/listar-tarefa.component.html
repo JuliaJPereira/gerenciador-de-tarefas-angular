@@ -22,7 +22,7 @@
         <input type="checkbox" 
         [value]="tarefa.id"
         [checked]="tarefa.concluida"
-        (click)="alterarStatus(tarefa)" />
+        (click)="alterarStatus($event, tarefa)" />
       </td>
       <td class="text-center" style="width: 200px">
         <a [routerLink]="['/tarefas/editar', tarefa.id]" 
